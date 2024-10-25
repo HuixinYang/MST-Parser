@@ -1,7 +1,7 @@
 
 # MST Parser
 
-A minimum spanning tree parser which labels the syntax relation between tokens with Universal Dependency (UD) arcs, such as labeling the sentence ["I", "like", "pizza"] as [nsubj, root, nobj]. Data structure and algorithm (WS 2023) assignment from (@MarioKuzmanov) and (@HuixinYang)
+A minimum spanning tree parser which labels the syntax relation between tokens with Universal Dependency (UD) arcs, such as labeling the sentence ["I", "like", "pizza"] as [nsubj, root, nobj]. Data structure and algorithm (WS 2023) assignment from [@MarioKuzmanov] and [@HuixinYang]
 
 
 ## Part 1: MST
