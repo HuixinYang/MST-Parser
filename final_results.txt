@@ -1,0 +1,16 @@
+# Over 258 treebanks in latest release
+# ----------------------------------------
+UAS BASELINE: 0.41265872049152297
+UAS SCORER:   0.7258189682540538
+
+LAS BASELINE: 0.28069872790641165
+LAS SCORER:   0.6036031995949115
+# ----------------------------------------
+
+# We achieve lower scores than the Baseline for 9 treebanks
+# Each of those treebanks contains one test set which is very small.
+# Such set, split on train and test almost provides no training data for our Scorer.
+# This, of course, is something that can be done better in the future.
+
+# Estimations were achieved with a very simple script reading from eval_release.txt
+# It is not shown, but can be included if needed.

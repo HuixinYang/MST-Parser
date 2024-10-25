@@ -1,0 +1,31 @@
+Treebank UD_English-Atis. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.47616909423608644, 0.37184156712786176)
+Our model UAS, LAS: (0.8737415099462864, 0.810959281645617)
+----------------------------------------------------------------------------------
+Treebank UD_English-ESLSpok. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.6446794488119553, 0.49760985762946036)
+Our model UAS, LAS: (0.8530358873834006, 0.7988396485152683)
+----------------------------------------------------------------------------------
+Treebank UD_English-EWT. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.5263348509873991, 0.301115269381604)
+Our model UAS, LAS: (0.7984694965453982, 0.7317134953243035)
+----------------------------------------------------------------------------------
+Treebank UD_English-GUM. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.4174111659989498, 0.2766378239820862)
+Our model UAS, LAS: (0.7791618145865771, 0.6983938112650767)
+----------------------------------------------------------------------------------
+Treebank UD_English-GUMReddit. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.412521994830069, 0.27808107362519624)
+Our model UAS, LAS: (0.7264783267444235, 0.6524862863719504)
+----------------------------------------------------------------------------------
+Treebank UD_English-LinES. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.4266543160947677, 0.3064202288835805)
+Our model UAS, LAS: (0.7788931008258788, 0.6813856832061823)
+----------------------------------------------------------------------------------
+Treebank UD_English-ParTUT. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.33158646865497277, 0.2101050433084503)
+Our model UAS, LAS: (0.7613724571269064, 0.6495899815196451)
+----------------------------------------------------------------------------------
+Treebank TOTALS. There is improvement in these treebanks.....
+Old model UAS, LAS: (0.47594920535614116, 0.310455268006863)
+Our model UAS, LAS: (0.798869022221143, 0.7227278565092611)

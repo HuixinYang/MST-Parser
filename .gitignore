@@ -1,0 +1,5 @@
+.sass-cache/
+_site/
+.jekyll-metadata
+.jekyll-cache
+__pycache__/
